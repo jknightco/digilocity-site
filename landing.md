@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Creative Platform
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'We connect adverstisers to freelance creatives.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
