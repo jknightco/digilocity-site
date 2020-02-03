@@ -1,17 +1,17 @@
 # site settings
 title: Creative Platform
-subtitle: - Connecting advertisers to creative freelancers.
+subtitle: Connecting advertisers to creative freelancers.
 email: contact@creativeplatform.app
 description: We connect advertisers to creative freelancers.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state:
-zip_code:
-country:
-phone:
+baseurl: # the subpath of your site, e.g. /blog
+url: creativeplatform.app # the base hostname & protocol for your site
+author: James Knight
+street_address: 101 West Street
+city: New York
+state: NY
+zip_code: 10021
+country: USA
+phone: +16025495339
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
