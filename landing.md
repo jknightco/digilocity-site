@@ -1,7 +1,7 @@
 ---
-title: Creative Platform
+title: Digilocity
 layout: landing
-description: 'We connect adverstisers to freelance creatives.'
+description: 'We help advertisers produce creative at scale.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

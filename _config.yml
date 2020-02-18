@@ -1,10 +1,10 @@
 # site settings
-title: Creative Platform
-subtitle: Connecting advertisers to creative freelancers.
+title: Digilocity
+subtitle: Creative at Scale
 email: contact@creativeplatform.app
-description: We connect advertisers to creative freelancers.
+description: Helping advertisers produce creative at scale.
 baseurl: # the subpath of your site, e.g. /blog
-url: creativeplatform.app # the base hostname & protocol for your site
+url: digilocity.com # the base hostname & protocol for your site
 author: James Knight
 street_address: 101 West Street
 city: New York

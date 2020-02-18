@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Creative Platform'
+landing-title: 'Welcome to Digilocity'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Welcome to Creative Platform.
+Welcome to Digilocity.
