@@ -1,6 +1,6 @@
 # README #
 
-Leap Bootstrap Theme by Medium Rare
+Digilocity Bootstrap Theme by Medium Rare
 
 ### Where are the docs? ###
 
@@ -27,4 +27,4 @@ To access support, find the support link in your Bootstrap Marketplace dashboard
 
 We strive to improve our products and we rely on feedback from our customers.
 
-Please feel free to share any feedback about Leap via twitter @mrareweb or feedback(at)mrare.co.
+Please feel free to share any feedback about Digilocity via twitter @mrareweb or feedback(at)mrare.co.
