@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bedb198c-3bdf-4734-9ddc-c8cdca6dbe52" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/pages/assets/img/creative.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/assets/img/hero-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/assets/img/robots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/assets/img/robots3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/twitterFetcher_min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/twitterFetcher_min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/assets/js/twitterFetcher_min.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/js/twitterFetcher_min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/custom/components/plugins/jarallax.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/custom/components/plugins/jarallax.css" afterDir="false" />
+>>>>>>> 379d316c502d780529241583118c82557819c8b9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +57,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/assets/img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
@@ -49,6 +70,18 @@
       <envs />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,7 +94,12 @@
       <option name="presentableId" value="Default" />
       <updated>1582180609071</updated>
       <workItem from="1582180610331" duration="97000" />
+<<<<<<< HEAD
       <workItem from="1582525581309" duration="5368000" />
+=======
+      <workItem from="1582525581309" duration="5216000" />
+      <workItem from="1582555392265" duration="5427000" />
+>>>>>>> 379d316c502d780529241583118c82557819c8b9
     </task>
     <servers />
   </component>
@@ -84,18 +122,28 @@
     <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1582620581703">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+<<<<<<< HEAD
     <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582620581703" />
+=======
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582533855024" />
+    <state x="781" y="359" key="SettingsEditor" timestamp="1582555420423">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="781" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1582555420423" />
+>>>>>>> 379d316c502d780529241583118c82557819c8b9
     <state x="629" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582533474661">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="629" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1582533474661" />
-    <state x="506" y="282" width="816" height="486" key="find.popup" timestamp="1582528542178">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="771" y="387" width="1244" height="667" key="find.popup" timestamp="1582560592036">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="506" y="282" width="816" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582528542178" />
-    <state x="505" y="233" key="search.everywhere.popup" timestamp="1582533881949">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="771" y="387" width="1244" height="667" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1582560592036" />
+    <state x="770" y="320" width="670" height="676" key="search.everywhere.popup" timestamp="1582555409223">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582533881949" />
+    <state x="770" y="320" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1582555409223" />
   </component>
 </project>
