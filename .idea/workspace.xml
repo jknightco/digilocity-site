@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bedb198c-3bdf-4734-9ddc-c8cdca6dbe52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/creative.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/hero-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/robots.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/robots3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/twitterFetcher_min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/twitterFetcher_min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/assets/js/twitterFetcher_min.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/js/twitterFetcher_min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/custom/components/plugins/jarallax.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/custom/components/plugins/jarallax.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +80,7 @@
       <updated>1582180609071</updated>
       <workItem from="1582180610331" duration="97000" />
       <workItem from="1582525581309" duration="5216000" />
-      <workItem from="1582555392265" duration="5427000" />
+      <workItem from="1582555392265" duration="7536000" />
     </task>
     <servers />
   </component>
