@@ -180,7 +180,7 @@ table {
 caption {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  color: #adb5bd;
+  color: #d9f0ff;
   text-align: left;
   caption-side: bottom; }
 
@@ -1355,16 +1355,16 @@ pre {
     outline: 0;
     box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.05); }
   .form-control::-webkit-input-placeholder {
-    color: #adb5bd;
+    color: #d9f0ff;
     opacity: 1; }
   .form-control::-moz-placeholder {
-    color: #adb5bd;
+    color: #d9f0ff;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
-    color: #adb5bd;
+    color: #d9f0ff;
     opacity: 1; }
   .form-control::placeholder {
-    color: #adb5bd;
+    color: #d9f0ff;
     opacity: 1; }
   .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;
@@ -1460,7 +1460,7 @@ textarea.form-control {
   margin-top: 0.3rem;
   margin-left: -1.25rem; }
   .form-check-input:disabled ~ .form-check-label {
-    color: #adb5bd; }
+    color: #d9f0ff; }
 
 .form-check-label {
   margin-bottom: 0; }
@@ -2427,7 +2427,7 @@ input[type="button"].btn-block {
     text-decoration: none;
     background-color: transparent; }
   .dropdown-item.disabled, .dropdown-item:disabled {
-    color: #adb5bd;
+    color: #d9f0ff;
     pointer-events: none;
     background-color: transparent; }
 
@@ -2727,7 +2727,7 @@ input[type="button"].btn-block {
     pointer-events: none;
     content: "";
     background-color: #fff;
-    border: #adb5bd solid 1px; }
+    border: #d9f0ff solid 1px; }
   .custom-control-label::after {
     position: absolute;
     top: 0.25rem;
@@ -2778,7 +2778,7 @@ input[type="button"].btn-block {
     left: calc(-4.5rem + 2px);
     width: 1rem;
     height: 1rem;
-    background-color: #adb5bd;
+    background-color: #d9f0ff;
     border-radius: 200px;
     transition: transform 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
     @media (prefers-reduced-motion: reduce) {
@@ -2987,15 +2987,15 @@ input[type="button"].btn-block {
     background-color: #e9ecef;
     border-radius: 1rem; }
   .custom-range:disabled::-webkit-slider-thumb {
-    background-color: #adb5bd; }
+    background-color: #d9f0ff; }
   .custom-range:disabled::-webkit-slider-runnable-track {
     cursor: default; }
   .custom-range:disabled::-moz-range-thumb {
-    background-color: #adb5bd; }
+    background-color: #d9f0ff; }
   .custom-range:disabled::-moz-range-track {
     cursor: default; }
   .custom-range:disabled::-ms-thumb {
-    background-color: #adb5bd; }
+    background-color: #d9f0ff; }
 
 .custom-control-label::before,
 .custom-file-label,
@@ -3527,7 +3527,7 @@ input[type="button"].btn-block {
   text-decoration: none; }
 
 .breadcrumb-item.active {
-  color: #adb5bd; }
+  color: #d9f0ff; }
 
 .pagination {
   display: flex;
@@ -7666,7 +7666,7 @@ a.text-primary-3:hover, a.text-primary-3:focus {
   color: #495057 !important; }
 
 .text-muted {
-  color: #adb5bd !important; }
+  color: #d9f0ff !important; }
 
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important; }
@@ -7711,7 +7711,7 @@ a.text-primary-3:hover, a.text-primary-3:focus {
     white-space: pre-wrap !important; }
   pre,
   blockquote {
-    border: 1px solid #adb5bd;
+    border: 1px solid #d9f0ff;
     page-break-inside: avoid; }
   thead {
     display: table-header-group; }
@@ -9519,7 +9519,7 @@ figcaption {
   margin-top: 0.75rem;
   font-size: 0.875rem;
   font-weight: 600;
-  color: #adb5bd; }
+  color: #d9f0ff; }
 
 blockquote {
   position: relative;
@@ -11335,7 +11335,7 @@ https://flickity.metafizzy.co
 .form-group label {
   font-size: 0.875rem;
   font-weight: 600;
-  color: #adb5bd; }
+  color: #d9f0ff; }
   .form-group label.custom-control-label {
     color: #495057; }
     .form-group label.custom-control-label:before, .form-group label.custom-control-label:after {
@@ -11421,7 +11421,7 @@ https://flickity.metafizzy.co
     font-size: 0.75rem;
     min-width: 13px;
     text-align: center;
-    color: #adb5bd;
+    color: #d9f0ff;
     font-weight: 600;
     display: block; }
     .custom-range-labels > span:before {
@@ -11429,7 +11429,7 @@ https://flickity.metafizzy.co
       height: .125rem;
       width: 2px;
       height: .4rem;
-      background: #adb5bd;
+      background: #d9f0ff;
       display: block;
       margin: 0 auto;
       margin-bottom: .5rem;
@@ -12344,10 +12344,10 @@ Build date: 2018-12-11 23:23:51
   .irs--theme .irs-grid {
     bottom: -8px; }
   .irs--theme .irs-grid-pol {
-    background: #adb5bd; }
+    background: #d9f0ff; }
   .irs--theme .irs-grid-text {
     margin-top: .5rem;
-    color: #adb5bd;
+    color: #d9f0ff;
     font-size: 0.75rem;
     font-weight: 600;
     bottom: -8px; }
@@ -13886,7 +13886,7 @@ article table {
   display: none; }
 
 .timePosted > a {
-  color: #adb5bd; }
+  color: #d9f0ff; }
 
 .tweet {
   word-break: break-word; }
