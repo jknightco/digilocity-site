@@ -121,18 +121,18 @@ getPaths = () => {
     },
     dist: {
       packageFolder: '',
-      folder: 'dist',
-      pages: 'dist/pages',
-      all: 'dist/**/*',
-      assets: 'dist/assets',
-      img: 'dist/assets/img',
-      css: 'dist/assets/css',
-      scssSources: 'dist/scss',
-      js: 'dist/assets/js',
-      jsSources: 'dist/js',
-      fonts: 'dist/assets/fonts',
-      video: 'dist/assets/video',
-      documentation: 'dist/documentation',
+      folder: 'docs',
+      pages: 'docs/pages',
+      all: 'docs/**/*',
+      assets: 'docs/assets',
+      img: 'docs/assets/img',
+      css: 'docs/assets/css',
+      scssSources: 'docs/scss',
+      js: 'docs/assets/js',
+      jsSources: 'docs/js',
+      fonts: 'docs/assets/fonts',
+      video: 'docs/assets/video',
+      documentation: 'docs/documentation',
       exclude: ['!**/desktop.ini', '!**/.DS_store'],
     },
     copyDependencies: copyDeps,
@@ -322,7 +322,7 @@ gulp.task('deps', async (done) => {
 gulp.task('serve', function (done) {
   browserSync({
     server: {
-      baseDir: './dist',
+      baseDir: './docs',
       index: "index.html"
     }
   });
