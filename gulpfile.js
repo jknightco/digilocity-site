@@ -23,7 +23,8 @@ const autoprefixer = require('gulp-autoprefixer'),
   sourcemaps = require('gulp-sourcemaps'),
   themeYaml = './theme.yml',
   year = new Date().getFullYear(),
-  yaml = require('yamljs');
+  yaml = require('yamljs'),
+  fs = require('fs');
 
 let copyDeps = yaml.load(copyDepsYaml);
 let theme = yaml.load(themeYaml);
@@ -121,6 +122,7 @@ getPaths = () => {
     },
     dist: {
       packageFolder: '',
+      cname: 'docs/CNAME',
       folder: 'docs',
       pages: 'docs/pages',
       all: 'docs/**/*',
@@ -147,7 +149,8 @@ gulp.task('clean:dist', function (done) {
   del.sync(paths.dist.all, {
     force: true
   });
-  done();
+  fs.writeFileSync(paths.dist.cname, "digilocity.com")
+  done(); 
 });
 
 // Copy html files to dist
